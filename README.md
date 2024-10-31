@@ -1,4 +1,4 @@
-# Recommendation-System-with-T5
+# Personalized Item Recommendation Using T5
 
 ### Data Preprocessing:
 
